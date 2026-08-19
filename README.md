@@ -21,20 +21,12 @@ My research spans distributed training systems, vision-language models, and comp
 
 ## 💻 Open Source
 
-I'm an active contributor to several open-source AI training frameworks:
-
-### VeOmni — Scaling Any Modality Model Training
-Part of the core development team for [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni), a model-centric distributed training recipe zoo.
+I'm a contributor to open-source AI training frameworks, including [VeOmni](https://github.com/ByteDance-Seed/VeOmni) (model-centric distributed training recipe zoo) and [verl](https://github.com/verl-project/verl) / [verl-omni](https://github.com/verl-project/verl-omni) (multimodal RL post-training frameworks).
 
 Research directions:
 - **Parallelism & memory optimization** — packed sequence packing, ChunkMBS, FSDP2/hsdp integration
 - **Training-time validation** — distributed metric aggregation and evaluation pipeline
 - **Hardware portability** — NPU training enablement and cross-platform validation
-
-### verl / verl-omni — RL Post-Training
-Contributing to [verl-project/verl](https://github.com/verl-project/verl) and [verl-project/verl-omni](https://github.com/verl-project/verl-omni), multimodal RL training frameworks.
-
-Research directions:
 - **Multimodal reward engineering** — batched reward inference and reward model integration
 - **Rollout & training pipeline** — async semantics, rollout-train consistency, group management
 - **Efficient post-training** — LoRA/FSDP for VLMs, distributed reward handling
