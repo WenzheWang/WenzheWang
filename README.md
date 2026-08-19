@@ -1,6 +1,6 @@
 # Hi there, I'm Wenzhe Wang! 👋
 
-I'm a **PhD graduate from Zhejiang University**, working at the intersection of **AI infrastructure** and **computer vision**. I contribute to large-scale training frameworks ([VeOmni](https://github.com/ByteDance-Seed/VeOmni), [verl](https://github.com/verl-project/verl)) while publishing research at top-tier venues (ICCV, IJCAI, ECAI, IEEE TMI).
+I'm a **PhD graduate from Zhejiang University**, working at the intersection of **AI infrastructure** and **computer vision**. I contribute to large-scale training frameworks ([VeOmni](https://github.com/ByteDance-Seed/VeOmni), [verl](https://github.com/verl-project/verl)) while publishing research at top-tier venues (NeurIPS, ICCV, IJCAI, ECAI, IEEE TMI).
 
 ## 🔬 Research
 
