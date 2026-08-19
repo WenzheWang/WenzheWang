@@ -1,6 +1,6 @@
 # Hi there, I'm Wenzhe Wang! 👋
 
-I'm a researcher and engineer working at the intersection of **AI infrastructure** and **computer vision**. Currently at **Zhejiang University**, I contribute to large-scale training frameworks ([VeOmni](https://github.com/ByteDance-Seed/VeOmni), [verl](https://github.com/verl-project/verl)) while publishing research at top-tier venues (ICCV, IJCAI, ECAI, IEEE TMI).
+I'm a **PhD graduate from Zhejiang University**, working at the intersection of **AI infrastructure** and **computer vision**. I contribute to large-scale training frameworks ([VeOmni](https://github.com/ByteDance-Seed/VeOmni), [verl](https://github.com/verl-project/verl)) while publishing research at top-tier venues (ICCV, IJCAI, ECAI, IEEE TMI).
 
 ## 🔬 Research
 
@@ -26,23 +26,18 @@ I'm an active contributor to several open-source AI training frameworks:
 ### VeOmni — Scaling Any Modality Model Training
 Part of the core development team for [ByteDance-Seed/VeOmni](https://github.com/ByteDance-Seed/VeOmni), a model-centric distributed training recipe zoo.
 
-Key contributions:
-- **Packed ChunkMBS support** with sequence & expert parallelism
-- **Qwen3-VL FSDP2** with torch.compile integration
-- **Qwen3.5 dense & ChunkMBS** training support
-- **HSDP all-reduce** control for custom trainers
-- **Training-time validation** with distributed metric aggregation
-- **NPU training** validation pipeline
+Research directions:
+- **Parallelism & memory optimization** — packed sequence packing, ChunkMBS, FSDP2/hsdp integration
+- **Training-time validation** — distributed metric aggregation and evaluation pipeline
+- **Hardware portability** — NPU training enablement and cross-platform validation
 
 ### verl / verl-omni — RL Post-Training
 Contributing to [verl-project/verl](https://github.com/verl-project/verl) and [verl-project/verl-omni](https://github.com/verl-project/verl-omni), multimodal RL training frameworks.
 
-Key contributions:
-- **Batched reward inference** (CLAP, PickScore) for diffusion models
-- **Diffusion rollout** async semantics preservation & group refilling
-- **Rollout-train consistency** monitoring
-- **VLM LoRA** support with FSDP for full-rank modules
-- **DisRM** reward score extra info handling
+Research directions:
+- **Multimodal reward engineering** — batched reward inference and reward model integration
+- **Rollout & training pipeline** — async semantics, rollout-train consistency, group management
+- **Efficient post-training** — LoRA/FSDP for VLMs, distributed reward handling
 
 ## 🛠️ Tech Stack
 
