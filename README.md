@@ -42,17 +42,6 @@ Infrastructure Slurm · Ray · wandb · Docker
 Vision/RL       Diffusion Models · VLMs · Video Retrieval · Medical Imaging
 ```
 
-## 📊 GitHub Stats
-
-<p>
-  <a href="https://github.com/WenZheWang?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WenZheWang&show_icons=true&theme=default&count_private=true&hide_title=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/WenZheWang?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenZheWang&layout=compact&theme=default&hide_title=true" alt="Top Languages" />
-  </a>
-</p>
-
 ## 📫 Connect
 
 - 📧 Email: w_wenzhe@163.com
