@@ -10,6 +10,7 @@ My research spans distributed training systems, vision-language models, and comp
 
 - **Dig into Multi-modal Cues for Video Retrieval with Hierarchical Alignment** — *IJCAI 2021* (first author)
 - **SinLane: Siamese Visual Transformer via Pyramid Feature Integration for Lane Detection** — *ECAI 2024*
+- **A Siamese Transformer with Hierarchical Refinement for Lane Detection** — *NeurIPS 2024*
 - **IFPNet: Integrated Feature Pyramid Network with Fusion Factor for Lane Detection** — *ICCV Workshop 2023*
 - **PR-Net: Preference Reasoning for Personalized Video Highlight Detection** — *ICCV 2021*
 - **Interactive Few-Shot Learning: Limited Supervision, Better Medical Image Segmentation** — *IEEE TMI 2021*
@@ -55,7 +56,6 @@ Vision/RL       Diffusion Models · VLMs · Video Retrieval · Medical Imaging
 ## 📫 Connect
 
 - 📧 Email: w_wenzhe@163.com
-- 🎓 Google Scholar: [profile](https://scholar.google.com/citations?user=J4b99-cAAAAJ)
 - 🏠 Location: Hangzhou, China
 
 ---
