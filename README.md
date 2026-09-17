@@ -55,7 +55,7 @@ Vision/RL       Diffusion Models · VLMs · Video Retrieval · Medical Imaging
 
 ## 📫 Connect
 
-- 📧 Email: w_wenzhe@163.com
+- 📧 Email: w_wenzhe[AT]163.com
 - 🏠 Location: Hangzhou, China
 
 ---
